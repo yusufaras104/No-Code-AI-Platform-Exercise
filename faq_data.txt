@@ -1,0 +1,60 @@
+Personal Insight and Experience:
+
+Project 1: Image Processing Model for Traffic Signals
+- Description: Developed an image processing model achieving 98% accuracy in following traffic signals.
+- Role: Developer and project lead.
+- Challenges:
+  - Ensuring high accuracy in image recognition.
+  - Increasing learning speed.
+  - Maintaining effective teamwork.
+- Approach and Tools:
+  - Utilized machine learning algorithms for image processing.
+  - Implemented techniques to improve learning speed.
+  - Fostered collaboration within the team.
+  - Used tools such as TensorFlow, OpenCV, and Python.
+- Outcome:
+  - Achieved 98% accuracy in traffic signal recognition.
+  - Increased learning speed by 87%.
+  - Successful teamwork resulting in project completion.
+
+Project 2: In-Home Voice Assistant
+- Description: Created a voice assistant using API models.
+- Role: Developer.
+- Challenges:
+  - Integrating various API models seamlessly.
+- Approach and Tools:
+  - Utilized API models for speech recognition and natural language processing.
+  - Implemented voice assistant functionalities.
+  - Employed Python programming language.
+- Outcome:
+  - Successfully developed a functional in-home voice assistant.
+
+Project 3: Warehouse System with Image Scanning
+- Description: Developed a warehouse system using AR technology and Unity kits.
+- Role: Developer and project lead.
+- Challenges:
+  - Implementing image scanning accurately in a dynamic environment.
+- Approach and Tools:
+  - Utilized AR technology and Unity kits for building the system.
+  - Integrated image scanning functionalities.
+- Outcome:
+  - Developed a warehouse system capable of efficient image scanning.
+
+Learning and Adaptability:
+- Experience: Prepared for high school final examinations within a compressed timeframe of one month.
+- Approach:
+  - Acquired learning materials.
+  - Conducted comprehensive online research.
+  - Devised a structured work schedule.
+- Outcome:
+  - Achieved a remarkable improvement of 200% in academic performance.
+  - Successfully prepared for final examinations.
+
+Parallel Journey into ML and GPU Protocols:
+- Experience: Explored machine learning and GPU protocols for a university project.
+- Approach:
+  - Conducted rigorous information gathering.
+  - Collaborated with professor and teammates.
+- Outcome:
+  - Enhanced proficiency in ML and GPU protocols.
+  - Strengthened conceptual framework of the project.
